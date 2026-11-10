@@ -203,7 +203,7 @@ Contract versionはGo moduleのversionとは独立しており、package pathの
 ## リポジトリについて
 
 このリポジトリは配布用のスナップショットです。
-Issueは受け付けていますが、Pull Requestは受け付けていません。
+IssueとPull Requestは受け付けていません。
 
 ## ライセンス
 
